@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/evukelic/chat-app-frontend.git
+[submodule "lab2/client"]
+	path = lab2/client
+	url = https://github.com/evukelic/chat-app-frontend.git
